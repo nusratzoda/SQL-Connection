@@ -1,0 +1,15 @@
+C:\Users\Сухайб\Desktop\C#\DATA BASE home work\bin\Debug\net6.0\DATA BASE home work.exe
+C:\Users\Сухайб\Desktop\C#\DATA BASE home work\bin\Debug\net6.0\DATA BASE home work.deps.json
+C:\Users\Сухайб\Desktop\C#\DATA BASE home work\bin\Debug\net6.0\DATA BASE home work.runtimeconfig.json
+C:\Users\Сухайб\Desktop\C#\DATA BASE home work\bin\Debug\net6.0\DATA BASE home work.dll
+C:\Users\Сухайб\Desktop\C#\DATA BASE home work\bin\Debug\net6.0\DATA BASE home work.pdb
+C:\Users\Сухайб\Desktop\C#\DATA BASE home work\obj\Debug\net6.0\DATA BASE home work.csproj.AssemblyReference.cache
+C:\Users\Сухайб\Desktop\C#\DATA BASE home work\obj\Debug\net6.0\DATA BASE home work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сухайб\Desktop\C#\DATA BASE home work\obj\Debug\net6.0\DATA BASE home work.AssemblyInfoInputs.cache
+C:\Users\Сухайб\Desktop\C#\DATA BASE home work\obj\Debug\net6.0\DATA BASE home work.AssemblyInfo.cs
+C:\Users\Сухайб\Desktop\C#\DATA BASE home work\obj\Debug\net6.0\DATA BASE home work.csproj.CoreCompileInputs.cache
+C:\Users\Сухайб\Desktop\C#\DATA BASE home work\obj\Debug\net6.0\DATA BASE home work.dll
+C:\Users\Сухайб\Desktop\C#\DATA BASE home work\obj\Debug\net6.0\refint\DATA BASE home work.dll
+C:\Users\Сухайб\Desktop\C#\DATA BASE home work\obj\Debug\net6.0\DATA BASE home work.pdb
+C:\Users\Сухайб\Desktop\C#\DATA BASE home work\obj\Debug\net6.0\DATA BASE home work.genruntimeconfig.cache
+C:\Users\Сухайб\Desktop\C#\DATA BASE home work\obj\Debug\net6.0\ref\DATA BASE home work.dll
